@@ -70,6 +70,7 @@ export default function Hero({ scrollTo }) {
           variants={fadeIn}
           className="text-xl sm:text-2xl md:text-3xl text-white/70 mb-4" // Reduced bottom margin
         >
+          
           Data Analyst & AI Process Specialist
         </motion.h2>
 
@@ -123,16 +124,20 @@ export default function Hero({ scrollTo }) {
             <Github className="w-5 h-5" />
             GitHub
           </Button>
-          <a href="/Adem_Bouteraa_CV.pdf" download="Adem_Bouteraa_CV.pdf" className="no-underline">
-             <Button
-              className="contact-button"
-              aria-label="Download CV"
-              as="span"
-            >
-              <Download className="w-5 h-5" />
-              Download CV
-            </Button>
-          </a>
+          <a
+  href="https://docs.google.com/document/d/1N-_slWPdzV1sHiD75jOzQX-TmmNAeOQshaO-umiTegQ/export?format=pdf"
+  download="Adem_Bouteraa_CV.pdf"
+  className="no-underline"
+>
+  <Button
+    className="contact-button"
+    aria-label="Download CV"
+    as="span"
+  >
+    <Download className="w-5 h-5" />
+    Download CV
+  </Button>
+</a>
         </motion.div>
 
       </motion.div>
