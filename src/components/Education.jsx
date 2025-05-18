@@ -6,12 +6,14 @@ import ExperienceCard from '@/components/ExperienceCard';
 const esenLogoUrl = "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/d273fb1dead5326b61d880758bc4b93a.png";
 
 const educationData = [
-  {
-    company: "Master's Degree in Monitoring and Competitive Intelligence",
-    date: "Sept 2024 - Present",
-    description: "Higher School of Digital Economy, University of Manouba. Focusing on strategic analysis, data-driven decision making, and market intelligence techniques.",
-    logo: esenLogoUrl // Added logo
-  },
+/*
+{
+  company: "Master's Degree in Monitoring and Competitive Intelligence",
+  date: "Sept 2024 - Present",
+  description: "Higher School of Digital Economy, University of Manouba. Focusing on strategic analysis, data-driven decision making, and market intelligence techniques.",
+  logo: esenLogoUrl // Added logo
+},
+*/
   {
     company: "Bachelor's Degree in Business Computing",
     date: "Sept 2020 - May 2024",
