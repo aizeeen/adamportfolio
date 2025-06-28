@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import ExperienceCard from '@/components/ExperienceCard';
 
-const esenLogoUrl = "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/d273fb1dead5326b61d880758bc4b93a.png";
+const esenLogoUrl = "public/Photos/esen-manouba.png";
 
 const educationData = [
   {

@@ -14,7 +14,7 @@ const experienceData = [
       "Utilized project-based learning to enhance engagement.",
       "Managed class schedules and resources effectively using shared calendars and checklists."
     ],
-    logo: "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/ee5926996f92bbc3756239289b677a64.png"
+    logo: "public/Photos/declitech.png"
   },
   {
     company: "Lacroix Group",
@@ -27,7 +27,7 @@ const experienceData = [
         "Collaborated with frontend team on data integration.",
         "Participated in daily stand-ups and sprint reviews."
     ],
-    logo: "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/d4314b7596dca0bfbe5ce9448da6b04d.png" // Added Lacroix logo
+    logo: "public/Photos/lacroix.png" // Added Lacroix logo
   },
   {
     company: "Higher Independent Election Authority",
@@ -39,7 +39,7 @@ const experienceData = [
       "Generated statistical reports for internal stakeholders.",
       "Maintained documentation for data handling procedures."
     ],
-    logo: "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/3612b5547dba2a9541876499987e6bef.png" // Added Election Authority logo
+    logo: "public/Photos/isie.png" // Added Election Authority logo
   },
   {
     company: "El Amouri Institute",
@@ -51,7 +51,7 @@ const experienceData = [
         "Implemented control procedures to mitigate risks.",
         "Prepared detailed reports on field findings and compliance status."
     ],
-    logo: "https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/41adfb0de29d15608ad99a10d134636b.png" // Added El Amouri logo
+    logo: "public/Photos/el amouri.png" // Added El Amouri logo
   }
 ];
 

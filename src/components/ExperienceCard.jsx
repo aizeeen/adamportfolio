@@ -1,4 +1,3 @@
-
 import React from "react";
 import { motion } from "framer-motion";
 import Tilt from "react-parallax-tilt";
@@ -32,7 +31,7 @@ export default function ExperienceCard({ company, role, date, description, detai
                  <img
                   src={logo}
                   alt={`${company} logo`}
-                  className="w-12 h-12 object-contain rounded-lg bg-white/10 p-1 shadow-md" // Adjusted padding
+                  className="w-12 h-12 object-contain rounded-xl bg-white p-1 shadow-md border border-gray-200"
                  />
               </div>
             )}

@@ -56,7 +56,7 @@ export default function Hero({ scrollTo }) {
            <img
              className="profile-image"
              alt="Adem Bouteraa profile picture"
-             src="https://storage.googleapis.com/hostinger-horizons-assets-prod/dae41d1d-bedd-4ce0-a2fd-88f80895c66b/153db75aafe4c71b88790fcf3afa6c39.jpg" />
+             src="public/Photos/photo di adem.jpg" />
         </motion.div>
 
         <motion.h1
