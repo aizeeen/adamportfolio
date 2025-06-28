@@ -27,7 +27,7 @@ const experienceData = [
         "Collaborated with frontend team on data integration.",
         "Participated in daily stand-ups and sprint reviews."
     ],
-    logo: "public/Photos/lacroix.png" // Added Lacroix logo
+    logo: "public/Photos/lacroix.png" 
   },
   {
     company: "Higher Independent Election Authority",
