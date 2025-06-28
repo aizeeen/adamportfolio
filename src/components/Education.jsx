@@ -1,9 +1,8 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import ExperienceCard from '@/components/ExperienceCard';
 
-const esenLogoUrl = "public/Photos/esen-manouba.png";
+const esenLogoUrl = "/Photos/esen-manouba.png";
 
 const educationData = [
 /*
@@ -50,3 +49,4 @@ export default function Education() {
     </section>
   );
 }
+
